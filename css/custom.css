@@ -1,0 +1,13 @@
+* { box-sizing: border-box;}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex-grow: 1;
+}
+footer {
+    width: 100vw;
+    height: 100px;
+}
